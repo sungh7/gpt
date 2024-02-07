@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../scholar"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
