@@ -1,2 +1,7 @@
 env/
 .env
+gpt.code-workspace
+.cache
+.ipynb_checkpoints
+.streamlit
+.vscode
